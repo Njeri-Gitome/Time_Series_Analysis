@@ -11,3 +11,6 @@ To use Time Series Analysis in forecating based on past data events using statis
 5. Regression Models -ARIMA.
 6. Seasonal mmodels - Holt, SARIMA
    
+
+References:<br>
+1. https://otexts.com/fpp2/ses.html
