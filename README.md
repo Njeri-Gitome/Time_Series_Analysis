@@ -9,7 +9,7 @@ To use Time Series Analysis in forecating based on past data events using statis
 3. Moving average - Simple, Weighted &Exponential.
 4. Correlations - Auto & Partial.
 5. Regression Models -ARIMA.
-6. Seasonal mmodels - Holt, SARIMA
+6. Seasonal models - Holt, SARIMA
    
 
 References:<br>
